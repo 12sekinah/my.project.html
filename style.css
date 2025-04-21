@@ -1,0 +1,60 @@
+h1 {
+color: black;
+}
+img {
+    width: 200px;
+    height: fit-content;
+    margin-top: -250px;
+    padding-left: 3px;
+    position: relative;
+}
+.first {
+    border: solid black;
+    border-width: 3px;
+    background-color: purple;
+}
+.second {
+    width: 500px;
+    margin-left: 250px;
+}
+h2 {
+    color: whitesmoke;
+}
+#about-me {
+    background-color: firebrick;
+    width: 400px;
+    color: whitesmoke;
+    height: 200px;
+    word-spacing: 3px;
+    padding: 30px 5px 0px 5px;
+    line-break: normal;
+}
+form {
+    color: plum;
+}
+button {
+    color: rgb(152, 35, 35);
+    background-color: rgb(218, 168, 168);
+}
+table {
+    color: rgb(123, 19, 123);
+}
+.contact {
+    color: rgb(89, 3, 89);
+}
+.third {
+    color: rebeccapurple;
+}
+.fourth {
+    padding: 20px;
+    width: 700px;
+    line-break: auto;
+    word-spacing: 2px;
+    border: 2px solid purple;
+}
+.fifth {
+    color: rgb(74, 6, 74);
+}
+#sixth {
+    color: rebeccapurple;
+}
